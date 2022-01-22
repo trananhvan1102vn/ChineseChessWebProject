@@ -1,0 +1,60 @@
+﻿body {
+    color: white;
+    background-color: #192634;
+    font-family: Arial;
+}
+.chessboard {
+    width: 850px;
+    height: 850px;
+    background-image: url('../Images/bancotuong456.jpg');
+    position: absolute;
+    margin-top: 50px;
+}
+
+.chessnode {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+
+.chessimgnode {
+    width: 50px;
+    height: 50px;
+}
+
+.users-online {
+    width: 400px;
+    height: 100px;
+    margin-left: 850px;
+    margin-top: 20px;
+    background-color: #31475E;
+}
+.users-online1 {
+    width: 400px;
+    height: 100px;
+    margin-left: 850px;
+    margin-top: 60px;
+    background-color: #31475E;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+
+.message-box {
+    width: 400px;
+    height: 600px;
+    margin-left: 850px;
+}
+
+.highlight {
+    box-shadow: inset 0 0 3px 3px white;
+}
+
+.divChat1 {
+    width: 400px;
+    margin-top: 10px;
+    height: 70%;
+    background-color: #31475E;
+}
+.abcde{
+    background-color: white;
+}
